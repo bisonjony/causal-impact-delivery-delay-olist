@@ -143,3 +143,9 @@ conda activate olist-causal
 Run notebooks in order:
 01 → 02 → 03 → 04 → 05 → 07
 
+## Full Report
+
+For a complete summary of all causal inference and business impact results, see the full report:
+
+[View the Causal Delivery Delay Report](reports/causal_delivery_delay_report.md)
+
